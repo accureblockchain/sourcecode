@@ -1,4 +1,4 @@
-Accure Core integration/staging tree
+Accure Blockchain integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/accure-project/accure.svg?branch=master)](https://travis-ci.org/accure-project/accure)
