@@ -3,7 +3,7 @@ Accure Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/accure-project/accure.svg?branch=master)](https://travis-ci.org/accure-project/accure)
 
-https://accure.org
+https://accure.tech
 
 What is Accure?
 ----------------
