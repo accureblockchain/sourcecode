@@ -15,12 +15,12 @@ out collectively by the network. Accure Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Accure Core software, see [https://accure.org](https://accure.org).
+the Accure Core software, see [https://accure.org](https://accure.tech).
 
 License
 -------
 
-Accure Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Accure Blockchain is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
