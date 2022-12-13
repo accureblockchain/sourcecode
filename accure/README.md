@@ -15,7 +15,7 @@ out collectively by the network. Accure Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Accure Core software, see [https://accure.org](https://accure.tech).
+the Accure Core software, see [https://accure.tech](https://accure.tech).
 
 License
 -------
